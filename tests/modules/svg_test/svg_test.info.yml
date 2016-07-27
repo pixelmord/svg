@@ -1,6 +1,7 @@
 name: 'SVG test module'
 type: module
 description: 'Support module for SVG testing.'
+core: 8.x
 package: Testing
 dependencies:
   - svg
